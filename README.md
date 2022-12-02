@@ -2,6 +2,8 @@
 
 ### Full Stack Web Developer.
 
+LinkedIn:[Juan Feliz](https://www.linkedin.com/in/juan-feliz/) | Personal Website: www.felizjuan.com
+
 Nothing better than creating fun and engaging interfaces that capture the attention of your viewers. 
 
 ...now if only we knew how to do that.
