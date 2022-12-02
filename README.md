@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hey it's just another Dev
+
+### Software Developer thats focused on frontend and backend development.
+
+Nothing better than creating fun and engaging interfaces that capture the attention of your viewers. 
+
+...now if only we knew how to do that.
+
+Oh wait that's right all it takes is ***practice***, collaboration, patience, and a little more ***practice***.
+
+
+
+
 
 <!--
 **felizj17/felizj17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
