@@ -1,4 +1,4 @@
-# Hey it's just another Dev
+# Hey, just another Dev
 
 ### Full Stack Web Developer.
 
