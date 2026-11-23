@@ -2,7 +2,7 @@
 
 ### Full Stack Web Developer.
 ### Go Backend Developer
-### Data pipelining and analysis 
+### Data pipelines 
 
 LinkedIn:[Juan Feliz](https://www.linkedin.com/in/juan-feliz/) | Personal Website: www.felizjuan.com
 
