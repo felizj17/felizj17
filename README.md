@@ -4,7 +4,7 @@
 ### Go Backend Developer
 ### Data pipelines 
 
-LinkedIn:[Juan Feliz](https://www.linkedin.com/in/juan-feliz/) | Personal Website: www.felizjuan.com
+LinkedIn:[Juan Feliz](https://www.linkedin.com/in/juan-feliz/)
 
 <!-- ![Ed, Cowboy Bepop](https://user-images.githubusercontent.com/37090868/205190491-b72b5b70-bd15-4346-a7ae-1891f6473e18.gif) -->
 <img id='image' src = "https://user-images.githubusercontent.com/37090868/205190491-b72b5b70-bd15-4346-a7ae-1891f6473e18.gif" alt='ed' width='350px'/>
